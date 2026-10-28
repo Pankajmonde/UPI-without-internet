@@ -399,9 +399,3 @@ For a college / portfolio project: name the concept honestly as **"mesh-routed d
 **Tests fail intermittently** — The concurrency test is timing-sensitive. If it ever flakes, run it 3x; if it consistently fails on your hardware, file the actual failure output.
 
 ---
-
-## License
-
-Demo code, no license. Use it however you want for learning.
-#   U P I - w i t h o u t - i n t e r n e t  
- 
